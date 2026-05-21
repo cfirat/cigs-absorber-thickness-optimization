@@ -1,5 +1,9 @@
 # CIGS Absorber Thickness Optimization
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20325908.svg)](https://doi.org/10.5281/zenodo.20325908)
+
+
+
 This repository contains the Google Colab notebook associated with the manuscript:
 
 **Blind-Validated Coupled Optical–Electrical Optimization of CIGS Absorber Thickness across the Composition Range**
