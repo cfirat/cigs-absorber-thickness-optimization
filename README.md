@@ -7,10 +7,8 @@ This repository contains the Python/Colab implementation for the manuscript:
 ## Contents
 
 - `notebooks/`: final Google Colab notebook
-- `data/`: processed optical constants and validation tables
-- `scripts/`: Python scripts for model execution and figure generation
-- `results/`: final numerical outputs
-- `figures/`: manuscript figures
+- `data/`: README.md file
+
 
 ## Model Summary
 
