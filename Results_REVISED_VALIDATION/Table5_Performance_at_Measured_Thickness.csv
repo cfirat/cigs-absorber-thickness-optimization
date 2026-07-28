@@ -1,0 +1,2 @@
+source,classification,transport_method,x,d_exp_um,L_um,Jsc_exp_mAcm2,Jsc_pred_mAcm2,Delta_Jsc_mAcm2,Voc_exp_V,Voc_pred_V,Delta_Voc_V,FF_exp,FF_pred,Delta_FF,eta_exp_percent,eta_pred_percent,Delta_eta_pp
+Nichterwitz et al. (2013),Primary scalar-L case,cross-sectional EBIC,0.0,2.0,0.42,40.5,36.20724765699441,-4.2927523430055885,0.46,0.347692945490424,-0.11230705450957601,0.717,0.6368411914439106,-0.08015880855608937,13.4,9.540605075443377,-3.8593949245566233
