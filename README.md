@@ -2,6 +2,9 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20325908.svg)](https://doi.org/10.5281/zenodo.20325908)
 
+Version 2
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20325908.svg)](https://doi.org/10.5281/zenodo.21670019)
+
 
 
 This repository contains the Google Colab notebook associated with the manuscript:
